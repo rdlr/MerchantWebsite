@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+title: Merchant Website
+description: Merchant-side QR-code demonstration
+baseurl: /MerchantWebsite
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+      
