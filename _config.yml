@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Merchant Website
-description: Merchant-side QR-code demonstration
+description: Merchant-side QR code demonstration
 baseurl: /MerchantWebsite
 defaults:
   - scope:

@@ -1,4 +1,4 @@
-## Sample QR-codes
+## Sample QR codes
 
 <ul>
   {% for post in site.posts %}
