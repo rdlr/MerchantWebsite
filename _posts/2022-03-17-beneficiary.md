@@ -1,3 +1,3 @@
 ### Beneficiary
 
-[![Image text]({{site.baseurl}}/assets/img/beneficiary.png)](http://authentiss.com/qrinfo?qrstring=TlExMApOYW5vdGVxIChQVFkpIEx0ZC4Kd3d3Lm5hbm90ZXEuY29tCk5hbm90ZXEKUmVkYmFuawoxMjM0NTYKQ2hlcXVlCjk4NzY1NDMyMTAKQUJDREZHOQoxCgoKd3d3LmdyZWVuYmFuay5jb20KZllCZDlzd1dydUFuZXRiUXM2Vi83Uko4OEtUbHh3UWNLY3llN1dxTjJwVURHU0dWSmU5VFRnNnpCTTl2TlBiZkxuTWhFNEpqZGdPbmp5N29lNU1NTmMwPQ==)
+[![Image text]({{site.baseurl}}/assets/img/beneficiary.png)](authentiss://authentiss.com/qrinfo?qrstring=TlExMApOYW5vdGVxIChQVFkpIEx0ZC4Kd3d3Lm5hbm90ZXEuY29tCk5hbm90ZXEKUmVkYmFuawoxMjM0NTYKQ2hlcXVlCjk4NzY1NDMyMTAKMEJDREZHOQoxCgoKd3d3LmdyZWVuYmFuay5jb20KYW1QL2ZVVkcycVczM1NmT3N4akpIV2VKN0RiUlBlSUdoM1UwcXJqNmVMa0NKS3czLzZ4a3BjRExPUjRXUWdmb1BzTCtYMlpSWkdmcDRhQTVLdlgzclF3PQ==)
