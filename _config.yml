@@ -10,4 +10,4 @@ defaults:
   - scope:
       path: apple-app-site-association
     values:
-      baseurl: /
+      permalink: /apple-app-site-association
