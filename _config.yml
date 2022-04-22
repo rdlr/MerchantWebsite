@@ -7,7 +7,3 @@ defaults:
       path: "assets/img"
     values:
       image: true
-  - scope:
-      path: apple-app-site-association
-    values:
-      permalink: /apple-app-site-association
