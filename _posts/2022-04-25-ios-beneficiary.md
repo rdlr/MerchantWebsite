@@ -1,3 +1,3 @@
 ### iOS Beneficiary
 
-[![Image text]({{site.baseurl}}/assets/img/beneficiary.png)](preprod.nanoteq.com/qrinfo?qrstring=TlExMApOYW5vdGVxIChQVFkpIEx0ZC4Kd3d3Lm5hbm90ZXEuY29tCk5hbm90ZXEKUmVkYmFuawoxMjM0NTYKQ2hlcXVlCjk4NzY1NDMyMTAKMEJDREZHOQoxCgoKd3d3LmdyZWVuYmFuay5jb20KYW1QL2ZVVkcycVczM1NmT3N4akpIV2VKN0RiUlBlSUdoM1UwcXJqNmVMa0NKS3czLzZ4a3BjRExPUjRXUWdmb1BzTCtYMlpSWkdmcDRhQTVLdlgzclF3PQ==)
+[![Image text]({{site.baseurl}}/assets/img/beneficiary.png)](https://preprod.nanoteq.com/qrinfo?qrstring=TlExMApOYW5vdGVxIChQVFkpIEx0ZC4Kd3d3Lm5hbm90ZXEuY29tCk5hbm90ZXEKUmVkYmFuawoxMjM0NTYKQ2hlcXVlCjk4NzY1NDMyMTAKMEJDREZHOQoxCgoKd3d3LmdyZWVuYmFuay5jb20KYW1QL2ZVVkcycVczM1NmT3N4akpIV2VKN0RiUlBlSUdoM1UwcXJqNmVMa0NKS3czLzZ4a3BjRExPUjRXUWdmb1BzTCtYMlpSWkdmcDRhQTVLdlgzclF3PQ==)
